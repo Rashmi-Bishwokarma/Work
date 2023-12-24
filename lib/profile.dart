@@ -243,7 +243,7 @@ class Profile extends StatelessWidget {
                           width: 180,
                         ),
                         Text(
-                          'View',
+                          'View all',
                           style: TextStyle(
                             color: Color(0xFF070707),
                             fontSize: 16,
